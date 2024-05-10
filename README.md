@@ -3,7 +3,7 @@
 Bem-vindo ao repositório do Chatbot de Declaração do IRPF, uma ferramenta interativa que auxilia você a determinar se precisa declarar o Imposto de Renda de Pessoa Física (IRPF) e a realizar a declaração, se necessário.
 
 ## Sobre o Projeto
-Projeto foi desenvolvido em Python e utiliza a API do Gemini, para fornecer uma experiência de usuário. O chatbot guia o usuário através de uma série de perguntas para avaliar a necessidade de declaração do IRPF.
+Projeto foi desenvolvido em Python e utiliza a API do Gemini, utilizando a versão Gemini 1.5 pro, conseguimos deixar a experiencia mais proxima a conversa com um contador. O chatbot guia o usuário através de uma série de perguntas para avaliar a necessidade de declaração do IRPF.
 
 ## Funcionalidades
 - **Determinação da Necessidade de Declaração**: O chatbot faz perguntas específicas para entender sua situação fiscal e informa se você deve ou não declarar o IRPF e qual declaração se encaixa melhor para sua situação.
